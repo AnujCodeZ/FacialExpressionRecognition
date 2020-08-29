@@ -79,4 +79,4 @@ model_file = {
     'label_names': label_names
 }
 
-torch.save(model_file, 'model.pth')
+torch.save(model_file, '.app/model.pth')
